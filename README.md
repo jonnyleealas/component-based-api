@@ -3,6 +3,8 @@
 
 **Contributors**: Sarah Shatto, Chris Bortel, Jonathon Lee.
 
+**Version**: 0.0.0
+
  # LAB 26: PHASE 1 
 
 ## Summary: 
