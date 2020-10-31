@@ -1,6 +1,9 @@
-# component-based-api
+
 # Full React Application
 
+**Contributors**: Sarah Shatto, Chris Bortel, Jonathon Lee.
+
+**Version**: 0.0.0
 
  # LAB 26: PHASE 1 
 
@@ -39,7 +42,10 @@ Allow the user to choose a method and store it in state
 This can be done with radio buttons or clickable elements
 Display the user’s choices on screen in a separate <div> or <section> under the form
 ```
+#
 
+## UML 
+[Diagram UML](./assets/)
 
 
 
