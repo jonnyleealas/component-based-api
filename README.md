@@ -45,7 +45,7 @@ Import and render Header, Footer, and Form components from other files using ES6
 #
 
 ## UML 
-[Diagram UML](./assets/)
+[Diagram UML](./assets/lab26uml.png)
 
 ## Code Sand Box
 [Phase 1](https://codesandbox.io/live/22gvl19)
