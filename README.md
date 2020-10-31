@@ -1,4 +1,4 @@
-# component-based-api
+
 # Full React Application
 
 **Contributors**: Sarah Shatto, Chris Bortel, Jonathon Lee.
