@@ -36,16 +36,18 @@ Import and render Header, Footer, and Form components from other files using ES6
 - The <Footer> component should use it’s own .scss file for styling
 - The <Form> component should:
 ```
-Use it’s own .scss file for styling
-Accept user input for a URL and store it in state
-Allow the user to choose a method and store it in state
-This can be done with radio buttons or clickable elements
-Display the user’s choices on screen in a separate <div> or <section> under the form
+- Use it’s own .scss file for styling
+- Accept user input for a URL and store it in state
+- Allow the user to choose a method and store it in state
+- This can be done with radio buttons or clickable elements
+- Display the user’s choices on screen in a separate <div> or <section> under the form
 ```
 #
 
 ## UML 
-[Diagram UML](./assets/)
+[Diagram UML](./assets/lab26uml.png)
 
+## Code Sand Box
+[Phase 1](https://codesandbox.io/live/22gvl19)
 
 
