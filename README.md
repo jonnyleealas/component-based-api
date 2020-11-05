@@ -48,6 +48,6 @@ Import and render Header, Footer, and Form components from other files using ES6
 [Diagram UML](./assets/lab26uml.png)
 
 ## Code Sand Box
-[Phase 1](https://codesandbox.io/live/22gvl19)
+[Phase 1](https://codesandbox.io/s/boring-ride-v3cp9?file=/src/styles.scss)
 
 
